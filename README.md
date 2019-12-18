@@ -1,2 +1,2 @@
 # MAX7219_nixietube
-MAX7219芯片数码管库
+MAX7219芯片数码管的micropython库
